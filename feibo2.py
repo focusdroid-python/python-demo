@@ -5,7 +5,6 @@ class Feibonaqie(object):
 		self.a = 0
 		self.b = 1
 
-
 	def __iter__(self):
 		return self
 
